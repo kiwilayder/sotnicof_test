@@ -1,0 +1,22 @@
+.item {
+   color: #000000;
+   cursor: pointer;
+   transition: all 0.5s;
+   text-decoration: underline;
+}
+
+.item:active {
+   color: #ffffff;
+}
+
+.wrapper {
+   display: flex;
+   align-items: center;
+   gap: 20px;
+}
+
+.selectItem {
+   color: #a024bc;
+   cursor: pointer;
+   text-decoration: underline;
+}

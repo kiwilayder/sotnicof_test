@@ -1,0 +1,8 @@
+.posts {
+   overflow-y: auto;
+   height: 100vh;
+   display: flex;
+   flex-wrap: wrap;
+   padding: 5px;
+   background: #a024bc50;
+}

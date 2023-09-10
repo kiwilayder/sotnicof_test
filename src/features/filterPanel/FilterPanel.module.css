@@ -1,0 +1,14 @@
+.filterPanel {
+   min-width: 30vw;
+   display: flex;
+   flex-direction: column;
+   justify-content: start;
+   gap: 15px;
+   padding: 15px;
+}
+
+.wrapper {
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+}

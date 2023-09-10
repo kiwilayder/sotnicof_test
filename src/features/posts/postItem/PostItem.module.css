@@ -1,0 +1,24 @@
+.items {
+   width: 100%;
+}
+
+.bodyCard {
+   min-height: 90px;
+   font-size: 16px;
+}
+
+.item {
+   margin: 10px;
+   background: #ffffff;
+   transition: all 0.5s;
+}
+
+.userName {
+   display: flex;
+   font-size: 20px;
+   justify-content: end;
+   margin-top: 0px;
+   margin-bottom: 20px;
+   font-weight: bold;
+   color: #a024bc;
+}
