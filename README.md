@@ -3,6 +3,6 @@
 How to start locally
 
 ```bash
-yarn init
+yarn install
 yarn dev
 ```
